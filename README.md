@@ -1,4 +1,3 @@
-WhatsAppClone 
 # WhatsApp_Android_Clone 
  
 ▷ Create an android app like whatsApp 
